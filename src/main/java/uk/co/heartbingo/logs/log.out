@@ -1,0 +1,7 @@
+2024-01-30 23:01:707 INFO  LoginPage :37 - click on signUpLink [[ChromeDriver: chrome on windows (8d468fb8b9f3fb514699d41ed94bb992)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:445 INFO  LoginPage :37 - click on signUpLink [[ChromeDriver: chrome on windows (68f7b6eb1acf31b65058920acd324bed)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:335 INFO  LoginPage :37 - click on signUpLink [[ChromeDriver: chrome on windows (eb5c4a6684bb029a4badc94511ee9303)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:315 INFO  LoginPage :37 - click on signUpLink [[ChromeDriver: chrome on windows (13069a78165dd8a64fdcabb1c0e168b0)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:849 INFO  LoginPage :37 - click on signUpLink [[ChromeDriver: chrome on windows (2f2f9b9d46cffe8ac1cc46a64f0aec79)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-31 00:01:883 INFO  LoginPage :41 - enterName[[ChromeDriver: chrome on windows (f5d93b75aca102cf4a16f9ccc7311f0a)] -> id: first_name]
+2024-01-31 00:01:141 INFO  LoginPage :45 - enterName[[ChromeDriver: chrome on windows (f5d93b75aca102cf4a16f9ccc7311f0a)] -> id: last_name]
